@@ -5,3 +5,5 @@ Repositório com Storybook configurado e com alguns componentes que desenvolvi:
 - Checkbox
 - Radio
 - Switch
+
+Os componentes foram desenvolvidos utilizando styled-components e prop-types.
